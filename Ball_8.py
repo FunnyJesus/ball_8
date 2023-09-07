@@ -19,4 +19,4 @@ while flag:
         flag = True
     else:
         flag = False
-        print('Приходите еще.')
+        print('Приходите еще. Или не возвращайтесь вовсе!!!')
